@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=500&text=EYA%20SAFER&fontSize=66&color=0:07111F,50:102A43,100:00E5FF&stroke=00E5FF&strokeWidth=1&fontColor=FFFFFF&animation=fadeIn&desc=SOFTWARE%20ENGINEERING%20%2F%2F%20FULL-STACK%20%2B%20APPLIED%20AI&descSize=14&descAlignY=70" width="100%" alt="Eya Safer — Full-Stack and Applied AI"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=EYA%20SAFER&fontSize=66&color=0:07111F,50:102A43,100:00E5FF&stroke=00E5FF&strokeWidth=1&fontColor=FFFFFF&animation=fadeIn&desc=SOFTWARE%20ENGINEERING%20%2F%2F%20FULL-STACK%20%2B%20APPLIED%20AI&descSize=14&descAlignY=70" width="100%" alt="Eya Safer — Full-Stack and Applied AI"/>
 
 <br/>
 
