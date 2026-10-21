@@ -1,108 +1,136 @@
 
-<!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:12304A,100:00D9FF&height=200&section=header&text=Eya%20Safer&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Eya Safer — Full-Stack Developer and AI Enthusiast"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1020&height=190&section=header&text=EYA%20SAFER&fontSize=48&fontColor=E6EDF7&fontAlignY=40&desc=SOFTWARE%20ENGINEERING%20%7C%20FULL-STACK%20%2B%20APPLIED%20AI&descSize=13&descColor=20D9E8&descAlignY=65" alt="Eya Safer — Software Engineering, Full-Stack and Applied AI"/>
 
 <br/>
 
-<a href="https://github.com/eya-safer">
-  <img src="https://img.shields.io/badge/GitHub-eya--safer-0B1020?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub profile"/>
-</a>
-<img src="https://img.shields.io/badge/Focus-Full--Stack%20%2B%20AI-12304A?style=for-the-badge&logoColor=00D9FF" alt="Full-Stack and AI"/>
-<img src="https://img.shields.io/badge/Open%20to-Learning%20%26%20Collaboration-0B1020?style=for-the-badge&logoColor=00D9FF" alt="Learning and collaboration"/>
+**Building software. Integrating intelligence. Solving real problems.**
+
+[GitHub](https://github.com/eya-safer) · [LinkedIn](https://www.linkedin.com/in/eya-safer/) · [Email](mailto:eya.safer.1@gmail.com)
+
+<br/>
+
+![Full Stack](https://img.shields.io/badge/FULL--STACK-14263D?style=flat-square&logoColor=20D9E8)
+![Applied AI](https://img.shields.io/badge/APPLIED%20AI-14263D?style=flat-square&logoColor=20D9E8)
+![Computer Vision](https://img.shields.io/badge/COMPUTER%20VISION-14263D?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-14263D?style=flat-square)
 
 </div>
 
 ---
 
-## `> whoami`
+## `01 / About me`
 
-Hi, I'm **Eya**, a Software Engineering student passionate about building useful software and AI-powered applications.
+I'm **Eya Safer**, a third-year Software Engineering student at the Institut Supérieur d'Informatique et de Multimédia de Gabès (ISIMG), Tunisia.
 
-I enjoy exploring the intersection of **Full-Stack Development, Artificial Intelligence, and Computer Vision** — turning ideas into practical applications.
+My interests lie at the intersection of **full-stack engineering and applied artificial intelligence**. I enjoy building complete applications, connecting intelligent models to real-world workflows, and turning ideas into useful software.
 
-- Building web applications with front-end and back-end technologies.
-- Exploring AI integration, machine learning, and computer vision.
-- Learning how to deploy, improve, and scale real-world applications.
-- Always curious about new technologies and better ways to solve problems.
+- **Software Engineering:** Web and mobile application development, APIs, and databases.
+- **Applied AI:** Computer vision, NLP, deep learning, and generative AI integration.
+- **Engineering mindset:** Building practical solutions with attention to functionality, maintainability, and user experience.
+
+Currently seeking a **final-year internship (PFE) starting February 2027**.
 
 ---
 
-## `> tech_stack`
+## `02 / Selected work`
+
+### AI Marketing Studio
+**Full-Stack Development · Generative AI**
+
+A web application that helps beauty brands generate promotional product visuals and marketing posts.
+
+- Integrated Gemini API for marketing copy generation.
+- Integrated Replicate API with Stable Diffusion XL for AI-generated visuals.
+- Developed the application using Node.js, Express, and EJS.
+
+`Node.js` `Express` `EJS` `Gemini API` `Replicate`
+
+### DomPharma
+**AI · Mobile Development · Healthcare**
+
+An AI-assisted medication management application that analyzes prescription images and checks prescribed medicines against a user's home medication stock.
+
+- Extracts medication information from prescription images using a vision-language model.
+- Connects the mobile application to a backend and database.
+- Academic project — **18/20**.
+
+`React Native` `Spring Boot` `PostgreSQL` `FastAPI` `VLM`
+
+### Search Engine — TF-IDF & BM25
+**Information Retrieval · Python**
+
+A search engine featuring inverted indexing, TF-IDF and BM25 ranking, with an interactive Streamlit interface.
+
+`Python` `Information Retrieval` `Streamlit`
+
+### Fresh Food Store
+**Full-Stack Mobile Development · Applied AI**
+
+An AI-powered grocery management application with product recognition, recipe generation, and ingredient recommendations.
+
+`React Native` `Spring Boot`
+
+---
+
+## `03 / Technical stack`
+
+<div align="center">
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-0B1020?style=flat-square&logo=python&logoColor=00D9FF)
-![TypeScript](https://img.shields.io/badge/TypeScript-0B1020?style=flat-square&logo=typescript&logoColor=00D9FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0B1020?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-0B1020?style=flat-square&logo=postgresql&logoColor=00D9FF)
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,php,dart" alt="Python, Java, C++, JavaScript, PHP and Dart"/>
 
-### Frontend & Backend
-![React](https://img.shields.io/badge/React-0B1020?style=flat-square&logo=react&logoColor=00D9FF)
-![Node.js](https://img.shields.io/badge/Node.js-0B1020?style=flat-square&logo=nodedotjs&logoColor=7CFC98)
-![HTML5](https://img.shields.io/badge/HTML5-0B1020?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0B1020?style=flat-square&logo=css3&logoColor=1572B6)
+### Frameworks & Development
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,spring,flutter,laravel" alt="Node.js, Express, React, Spring, Flutter and Laravel"/>
 
-### AI & Tools
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0B1020?style=flat-square&logo=scikitlearn&logoColor=00D9FF)
-![OpenCV](https://img.shields.io/badge/OpenCV-0B1020?style=flat-square&logo=opencv&logoColor=00D9FF)
-![Git](https://img.shields.io/badge/Git-0B1020?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0B1020?style=flat-square&logo=github&logoColor=FFFFFF)
-
----
-
-## `> featured_projects`
-
-### 01 — AI Marketing Studio
-**AI-powered marketing content generation**
-
-A web application designed to help beauty brands create promotional visuals and social media copy for their products.
-
-`Web Development` `Gemini API` `Python` `AI Integration`
-
-### 02 — FoKiss / AI Focus Guardian
-**Computer vision for focus monitoring**
-
-An application exploring real-time object detection and webcam-based monitoring to help users stay focused.
-
-`Python` `YOLO` `OpenCV` `Computer Vision`
-
-### 03 — More projects coming soon
-**Learning by building**
-
-Exploring new ideas across AI-powered web applications, computer vision, and full-stack engineering.
-
----
-
-## `> github_activity`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=eya-safer&show_icons=true&hide_border=true&bg_color=0B1020&title_color=00D9FF&icon_color=00D9FF&text_color=DCE7F5" height="165" alt="GitHub statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eya-safer&layout=compact&hide_border=true&bg_color=0B1020&title_color=00D9FF&text_color=DCE7F5" height="165" alt="Most used programming languages"/>
+### Databases & Tools
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,git,github,dotnet" alt="MySQL, MongoDB, PostgreSQL, Git, GitHub and .NET"/>
 
 </div>
 
+**AI & Machine Learning**
+
+Deep Learning · Computer Vision · NLP · Data Mining · Vision-Language Models · LoRA Fine-Tuning · Prompt Engineering · Gemini API · Stable Diffusion
+
 ---
 
-## `> connect`
+## `04 / Other academic projects`
 
-I'm interested in software engineering, AI projects, and opportunities to learn and collaborate.
+| Project | Description | Technologies |
+|---|---|---|
+| Crèche Management System | Nursery management with REST backend and mobile application | Java, Spring Boot, Flutter |
+| EcommerceWatch | E-commerce website for products, orders, and users | PHP |
+| Room Reservation System | Web-based room booking application | Java EE, Servlets, JSP, JDBC |
+
+---
+
+## `05 / Certifications`
+
+- NVIDIA — Fundamentals of Deep Learning
+- Hedera Certified Foundation (HCF)
+- HP LIFE — Data Science & Analytics
+- Cognitive Class — Python 101 for Data Science
+- SCRUMstudy — Scrum Fundamentals
+- Spring Boot & Flutter Intensive Training
+
+---
+
+## `06 / Let's connect`
+
+Interested in **Full-Stack Development, Applied AI, and building meaningful software**? Let's connect and exchange ideas.
 
 <div align="center">
 
 <a href="https://github.com/eya-safer">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-0B1020?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-0B1020?style=for-the-badge&logo=github&logoColor=20D9E8" alt="Explore my GitHub work"/>
 </a>
-
-<!-- Replace YOUR_LINKEDIN_USERNAME with your actual LinkedIn username -->
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0B1020?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/eya-safer/">
+  <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-14263D?style=for-the-badge&logo=linkedin&logoColor=20D9E8" alt="Connect on LinkedIn"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:12304A,100:0B1020&height=100&section=footer" width="100%" alt="Decorative cyan footer"/>
+<sub>Designed with curiosity, built with code.</sub>
 
 </div>
